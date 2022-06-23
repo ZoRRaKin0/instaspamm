@@ -1,3 +1,4 @@
+# coded by ZoRRaKin
 import os
 import random 
 import socket
